@@ -1,8 +1,6 @@
 /*
  * TPS register - debugfs
  *
- * Copyright 2015 - Copyright ALC
- *
  * Author: Johnnie Alan <johnniealan@gmail.com>
  *
  * This program is free software; you can redistribute it and/or modify
